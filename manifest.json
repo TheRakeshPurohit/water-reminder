@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "Water Reminder (Dev Edition)",
-    "description": "Water Reminder is an extension which will force you to drink water after evry hour you spend on your screen.",
+    "description": "Water Reminder is an extension which will force you to drink water after every hour you spend on your screen.",
     "version": "1.0",
     "icons": {
       "128": "./assets/icon.png",
