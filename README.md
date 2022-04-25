@@ -1,6 +1,6 @@
 # Water Reminder (Dev Edition)
 
-Water Reminder is an extension which will force you to drink water after evry hour you spend on your screen.
+Water Reminder is an extension which will force you to drink water after every hour you spend on your screen.
 
 ![Demo Photo](./assets/banner.webp)
 
@@ -10,7 +10,7 @@ Water Reminder is an extension which will force you to drink water after evry ho
 2. Extract the folder
 3. Hit `chrome://extensions/` in your chrome browser tab
 4. Click on `load unpacked` and select the folder
-5. Hurray! You will get Ronaldo in each tab to force you to star hydrated.
+5. Hurray! You will get Ronaldo in each tab to force you to stay hydrated.
 
 ## Tech Stack
 
