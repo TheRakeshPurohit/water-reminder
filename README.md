@@ -12,6 +12,13 @@ Water Reminder is an extension which will force you to drink water after every h
 4. Click on `load unpacked` and select the folder
 5. Hurray! You will get Ronaldo in each tab to force you to stay hydrated.
 
+## How it Works
+
+This extension will give a `window.alert` as below to seek your permission on whether you want to have a reminder or not.
+
+![Window Alert Sample](./assets/how-to-image.png)
+
+
 ## Tech Stack
 
 - HTML
